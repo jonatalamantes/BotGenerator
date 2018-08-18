@@ -74,7 +74,8 @@ for i in range(5,10):
 
     driver.execute_script("$('._1mto > ._khz._4sz1 > .accessible_elem')[8].click()")
     time.sleep(1)
-
+    
+    #change the number behind to have another reactions
     driver.execute_script("$('._628b > span')[1].click()")
     time.sleep(1)
 
