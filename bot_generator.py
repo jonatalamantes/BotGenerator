@@ -69,7 +69,7 @@ for i in range(5,10):
 
     driver.execute_script("$('._55pi')[11].click()")
     time.sleep(1)
-    driver.execute_script("$('._alf:contains(\"{0}\")')[0].click()".format(_botname))
+    driver.execute_script("$('._2sl4:contains(\"{0}\")')[0].click()".format(_botname))
     time.sleep(1)
 
     driver.execute_script("$('._1mto > ._khz._4sz1 > .accessible_elem')[8].click()")
