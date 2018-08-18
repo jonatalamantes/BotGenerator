@@ -64,7 +64,7 @@ for i in range(5,10):
     time.sleep(2)
 
     #Load the Challange page
-    driver.get('https://www.facebook.com/CentroUniversitariodeCienciasMemeras/photos/a.1977438645639977/2015222845194890/?type=3&theater')
+    driver.get('https://www.facebook.com/somefacebookpage')
     driver.execute_script(jquery)
 
     driver.execute_script("$('._55pi')[11].click()")
